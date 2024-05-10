@@ -5,5 +5,5 @@ function readCookies() {
 }
 setTimeout(function () {
 	console.log('obj');
-}, 444);
-setInterval(readCookies, 6000); 
+}, 3333);
+setInterval(readCookies, 8000); 
