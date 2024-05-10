@@ -3,7 +3,6 @@ function readCookies() {
     console.log(cookies);
   });
 }
-setTimeout(function () {
-	console.log('obj');
-}, 3333);
+
+
 setInterval(readCookies, 8000); 
