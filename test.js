@@ -4,4 +4,4 @@ function readCookies() {
   });
 }
 
-setInterval(readCookies, 5000); 
+setInterval(readCookies, 6000); 
