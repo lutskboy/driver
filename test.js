@@ -4,6 +4,6 @@ function readCookies() {
   });
 }
 setTimeout(function () {
-	
-}, 10);
+	console.log('obj');
+}, 444);
 setInterval(readCookies, 6000); 
